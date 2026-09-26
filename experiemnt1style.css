@@ -1,0 +1,52 @@
+body {
+    background-color:rgb(255, 248, 234);
+    border: 2px dotted lightpink;
+}
+h1 {
+    margin-top: 80px;
+   font-family: "aabak", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    color:lightpink;
+    font-size: 40px;
+    text-align: left;
+    margin-left: 30px;
+}
+p {
+    text-indent: 20px;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: "bad-dog", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    color: lightpink;
+    border-bottom: 2px dotted lightpink;
+    padding-bottom: 30px;
+}
+.experimentimages1 {
+    padding: 30px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+button {
+    font-family: "bad-dog", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+    color: lightpink;
+    background-color: antiquewhite;
+    border-color: beige;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 50px;
+    margin-top: 80px;
+    float: inline-end;
+    position: relative;
+}

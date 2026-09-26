@@ -1,0 +1,113 @@
+
+body {
+    background-color:rgb(255, 248, 234);
+    border: 2px dotted lightpink;
+}
+h1 {
+    margin-top: 80px;
+   font-family: "aabak", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    color:lightpink;
+    font-size: 80px;
+    text-align: center;
+}
+#ingredientsname {
+    font-family: "aabak", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 30px;
+    color: lightpink;
+    border-top: 2px dotted lightpink;
+    margin-right: 40px;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+#ingredients {
+    margin-left: 30px;
+    font-family: "bad-dog", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 30px;
+    color: lightpink;
+}
+#myblurb{
+    text-align: right;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: "bad-dog", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+    color: lightpink;
+}
+#stepsname{
+    font-family: "aabak", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 30px;
+    color: lightpink;
+    border-top: 2px dotted lightpink;
+    margin-right: 30px;
+    padding-top: 30px;
+    margin-left: 40px;
+}
+#steplist{
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+    line-height: 40px;
+    margin-left: 40px;
+    font-family: "bad-dog", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+    color: lightpink;
+}
+pre {
+    text-align: center;
+    color: lightpink;
+}
+#experimentname {
+    font-family: "aabak", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 50px;
+    color: lightpink;
+    border-top: 2px dotted lightpink;
+    padding-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+}
+#isabella {
+    font-family: "bad-dog", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+    color: lightpink;
+    background-color: antiquewhite;
+    border-color: beige;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+#ivy {
+    font-family: "bad-dog", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+    color: lightpink;
+    background-color: antiquewhite;
+    border-color: beige;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.buttons {
+    display: grid;
+    gap: 30px;
+    padding-bottom: 50px;
+    justify-content: center;
+    display: flex;
+}
